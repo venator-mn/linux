@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set backup repository path
-BACKUP_REPO=/home/venator/Documents/Borg
+BACKUP_REPO= ""
 
 
 # Function to check Arch news with interactive bypass
